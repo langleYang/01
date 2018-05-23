@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //cpp文件经过notepad 重新编码
 #include<math.h>
 double funcos(double e,double m);
 double fact(int n);
